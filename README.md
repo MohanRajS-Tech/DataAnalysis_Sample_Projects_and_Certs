@@ -1,4 +1,4 @@
-# My Data Analyst Portfolio
+# My Data Analyst Sample Projects
 
 Hey welcome 👋
 
@@ -21,7 +21,7 @@ An interactive dashboard focused on retail plant-store metrics — sales trends,
 
 4. Excel Project
 
-A Coffee Sales dashboard built in Excel — demonstrates pivot tables, charts, and a few hands-on tricks I used to clean and summarize the raw data.
+A Coffee Sales dashboard built in Excel — demonstrates pivot tables, charts, data cleaning and summarize the raw data.
 
 5. n8n Automation Projects
 
@@ -45,7 +45,7 @@ I’m learning by doing — and sharing that process. Each project started becau
 
 # How to explore
 
-Start with the README inside each project folder — I keep notes on data sources and how I approached the problem.
+Start with the README file .
 
 Power BI files and Excel workbooks are in their folders.
 
